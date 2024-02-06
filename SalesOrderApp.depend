@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1707257918 source:f:\codeblocksfile\salesorderapp\main.cpp
+	<iostream>
+	<ctime>
+	"Customers.h"
+	"Stock.h"
+	"Transaction.h"
+
+1707258664 source:f:\codeblocksfile\salesorderapp\src\company.cpp
+	"Company.h"
+
+1707049615 f:\codeblocksfile\salesorderapp\include\company.h
+	<Customer.h>
+	<iostream>
+	<string>
+	<fstream>
+
+1707049541 f:\codeblocksfile\salesorderapp\include\customer.h
+	<iostream>
+	<string>
+
+1706648688 source:f:\codeblocksfile\salesorderapp\src\customer.cpp
+	"Customer.h"
+
+1707049696 source:f:\codeblocksfile\salesorderapp\src\customers.cpp
+	"Customers.h"
+	<iostream>
+
+1707048986 f:\codeblocksfile\salesorderapp\include\customers.h
+	<iostream>
+	"Customer.h"
+	"Person.h"
+	"Company.h"
+
+1707258350 source:f:\codeblocksfile\salesorderapp\src\person.cpp
+	"Person.h"
+	<iostream>
+
+1707257918 f:\codeblocksfile\salesorderapp\include\person.h
+	<Customer.h>
+	<string>
+	<fstream>
+
+1706722587 source:f:\codeblocksfile\salesorderapp\src\product.cpp
+	"Product.h"
+
+1706722625 f:\codeblocksfile\salesorderapp\include\product.h
+	<iostream>
+	<string>
+	<fstream>
+
+1707259172 source:f:\codeblocksfile\salesorderapp\src\stock.cpp
+	"Stock.h"
+	<bits/stdc++.h>
+
+1707051575 f:\codeblocksfile\salesorderapp\include\stock.h
+	<iostream>
+	<fstream>
+	<string>
+	"Product.h"
+
+1707259750 source:f:\codeblocksfile\salesorderapp\src\order.cpp
+	"Order.h"
+
+1707259224 f:\codeblocksfile\salesorderapp\include\order.h
+	<bits/stdc++.h>
+	"Stock.h"
+	"Customer.h"
+	"Person.h"
+	"Company.h"
+
+1706985483 f:\codeblocksfile\salesorderapp\include\orderitem.h
+
+1706985896 source:f:\codeblocksfile\salesorderapp\src\orderitem.cpp
+	"OrderItem.h"
+
+1707259937 source:f:\codeblocksfile\salesorderapp\src\transaction.cpp
+	"Transaction.h"
+
+1707089452 f:\codeblocksfile\salesorderapp\include\transaction.h
+	<bits/stdc++.h>
+	"Order.h"
+	"Payment.h"
+
+1707087295 source:f:\codeblocksfile\salesorderapp\src\payment.cpp
+	"Payment.h"
+
+1707087295 f:\codeblocksfile\salesorderapp\include\payment.h
+	<bits/stdc++.h>
+

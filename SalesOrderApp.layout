@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="src\Customer.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Order.cpp" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12943" topLine="372" />
+		</Cursor>
+	</File>
+	<File name="include\Payment.h" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="178" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Company.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5828" topLine="191" />
+		</Cursor>
+	</File>
+	<File name="include\Person.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="231" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="include\Transaction.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="262" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="src\Stock.cpp" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8084" topLine="271" />
+		</Cursor>
+	</File>
+	<File name="src\Customers.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3938" topLine="85" />
+		</Cursor>
+	</File>
+	<File name="src\Person.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5676" topLine="186" />
+		</Cursor>
+	</File>
+	<File name="src\Product.cpp" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Transaction.cpp" open="1" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1727" topLine="51" />
+		</Cursor>
+	</File>
+	<File name="include\Stock.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="754" topLine="9" />
+		</Cursor>
+	</File>
+	<File name="include\Order.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="888" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\Customers.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="236" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="18" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3466" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="include\Customer.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="179" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="include\Company.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="410" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="include\Product.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="137" topLine="3" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
